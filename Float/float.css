@@ -1,0 +1,20 @@
+.float1{
+    float: left;
+    padding: 40px;
+}
+.box{
+    width: 400px;
+    padding: 100px;
+
+}
+#boxes{
+    background-color: whitesmoke
+}
+
+
+
+.float2{
+    float: right;
+    padding: 40px;
+}
+

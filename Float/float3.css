@@ -1,0 +1,12 @@
+.float{
+    float: right;
+    background-color: lightblue;
+    width: 200px;
+    padding: 30px;
+    
+}
+.box{
+    width: 400px;
+    padding: 100px;
+    background-color: lightblue;
+}
